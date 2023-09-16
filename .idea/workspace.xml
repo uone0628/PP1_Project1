@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef026748-2c0d-443e-bbff-85930ec04bba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <updated>1693900632801</updated>
       <workItem from="1693900634638" duration="882000" />
       <workItem from="1694158814318" duration="4916000" />
-      <workItem from="1694504179472" duration="3817000" />
+      <workItem from="1694504179472" duration="5254000" />
     </task>
     <servers />
   </component>
